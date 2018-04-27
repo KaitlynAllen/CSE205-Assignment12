@@ -1,6 +1,6 @@
 // Assignment #: 12
 //         Name: Kaitlyn Allen
-//    StudentID: 1213830174
+//    StudentID:
 //      Lecture: TTH 4:30-5:45
 //  Description: The Assignment 12 class creates a controlpanel and
 //               adds it as its Applet content and also sets its size.
