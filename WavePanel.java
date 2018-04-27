@@ -1,3 +1,10 @@
+// Assignment #: 12
+//         Name: Kaitlyn Allen
+//    StudentID:
+//      Lecture: TTH 4:30-5:45
+//  Description: The WavePanel class creates a wavepanel which has
+//               the ability to create a wave with any color and a 
+//               set width and height to begin with.
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.event.ActionEvent;
