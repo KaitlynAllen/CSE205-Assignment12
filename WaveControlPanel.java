@@ -1,6 +1,6 @@
 // Assignment #: 12
 //         Name: Kaitlyn Allen
-//    StudentID: 1213830174
+//    StudentID: 
 //      Lecture: TTH 4:30-5:45
 //  Description: The WaveControlPanel class creates 3 buttons and 2 sliders to
 //               to control the movement of waves, and also contains a panel
