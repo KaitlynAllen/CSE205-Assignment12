@@ -1,6 +1,6 @@
 // Assignment #: 12
 //         Name: Kaitlyn Allen
-//    StudentID: 1213830174
+//    StudentID: 
 //      Lecture: TTH 4:30-5:45
 //  Description: The ControlPane class creates 2 panels and
 //               control panels that control their movement.
